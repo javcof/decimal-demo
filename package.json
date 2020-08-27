@@ -1,0 +1,11 @@
+{
+  "name": "decimal-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/javcof/decimal-demo.git",
+  "author": "Jerry Zhang <jerryz@synnex.com>",
+  "license": "MIT",
+  "dependencies": {
+    "decimal.js": "^10.2.0"
+  }
+}
